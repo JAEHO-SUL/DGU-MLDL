@@ -166,6 +166,7 @@ cython_debug/
 *.dot
 *.csv
 *.png
+*.jpg
 
 Midterm_proj.ipynb
 mitbih_data_split/
